@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 82.999995 111"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="blapoo b.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   width="83"
+   height="111"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="241.75"
+     inkscape:cy="191.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27"
+     width="517.123px"
+     height="1e-05px" />
+  <defs
+     id="defs22">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8968">
+      <stop
+         style="stop-color:#ff0066;stop-opacity:1"
+         offset="0"
+         id="stop8964" />
+      <stop
+         style="stop-color:#ffb380;stop-opacity:1"
+         offset="1"
+         id="stop8966" />
+    </linearGradient>
+    <rect
+       x="566.69305"
+       y="1.6237624"
+       width="959.64355"
+       height="633.26733"
+       id="rect2973" />
+    <style
+       id="style20">.cls-1{fill:#d8d2cb;}</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8968"
+       id="linearGradient10993"
+       gradientUnits="userSpaceOnUse"
+       x1="687.09351"
+       y1="679.87152"
+       x2="696.46124"
+       y2="162.56923"
+       gradientTransform="matrix(0.14022197,0.04931719,-0.03809225,0.18154225,-37.659733,-53.297331)" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -544.77361 : 1"
+       inkscape:vp_y="0 : 1.5243902 : 0"
+       inkscape:vp_z="0.37133307 : -544.77361 : 1"
+       inkscape:persp3d-origin="0.18566653 : -544.84907 : 1"
+       id="perspective91" />
+  </defs>
+  <path
+     class="cls-1"
+     d="m 82.562012,58.701869 c -0.01244,-1.433285 -0.07217,-2.863704 -0.17763,-4.27707 -1.035647,-9.011309 -6.018939,-16.423811 -12.769837,-18.994761 -0.731023,-0.257107 -1.461593,-0.475715 -2.191709,-0.655825 -0.006,-0.0085 -0.01531,-0.01175 -0.02384,-0.0084 C 50.658566,30.4103 33.9449,40.458535 25.481085,58.815935 c -0.0046,0.0289 -0.01055,0.0574 -0.0179,0.08532 -0.11008,0.520682 -0.524642,0.828094 -0.927234,0.687572 -0.328476,-0.114937 -0.556264,-0.501366 -0.555217,-0.941893 -0.0034,-0.17543 0.03292,-0.348312 0.104374,-0.497427 L 35.025088,3.5810798 C 35.35186,2.035661 34.650968,0.43935324 33.458143,0.01230741 L 1.6709717,0.06982686 C 0.3739969,-0.40609531 -0.56356873,1.6622761 0.38982706,2.8961727 c 0.0411986,0.047631 0.0866059,0.09674 0.12666329,0.1498168 0,0 0.0140289,0.00493 0.0168313,0.00593 C 16.046603,4.2145034 17.479796,22.431225 15.050659,33.978067 L 9.4272492,62.930558 C 8.5190074,67.606699 7.0499891,72.207923 6.6613203,77.038286 5.7847571,87.925375 15.594238,98.149351 22.105085,103.36531 c 0.117317,0.0939 0.231571,0.18086 0.348247,0.27064 1.291723,0.9972 2.627804,1.89477 4.001266,2.68803 l 0.190733,0.10997 c 1.848252,1.06058 3.75634,1.93695 5.707634,2.62148 21.200161,7.45626 43.05563,-8.741 48.815559,-36.192003 0.970326,-4.613801 1.439333,-9.380154 1.393488,-14.161558 z M 39.362166,77.932523 c -4.522433,9.971292 -10.17214,16.545993 -12.618509,14.685544 -2.44637,-1.860446 -0.771028,-11.445115 3.754331,-21.423176 4.52536,-9.97806 10.172139,-16.545993 12.61991,-14.685051 2.447771,1.860939 0.765299,11.450898 -3.755732,21.422683 z"
+     id="path24"
+     style="fill:url(#linearGradient10993);fill-opacity:1;stroke-width:0.165332"
+     inkscape:export-filename="C:\Users\Olmos\OneDrive\Escritorio\blapoo fin.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     sodipodi:nodetypes="cccccccccccccccccscccccccccsssc" />
+</svg>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Blapoo - Agencia Digital</title>
+	<link rel="icon" href="img/blapoo.ico">
+	<link rel="stylesheet" href="css/main.css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+</head>
+<body>
+	<header>
+		<a href="#home" id="logo">
+			<img src="svg/blapoo_bnw_b.svg" class="desk-logo">
+		</a>
+		<ul>
+			<a href=""><li>Services</li></a>
+			<a href=""><li>Projects</li></a>
+			<a href=""><li>About Us</li></a>
+			<a href=""><li>FAQ</li></a>
+			<a href=""><li>Contact Us</li></a>	
+		</ul>	
+		<input type=checkbox id="show-nav" onclick="showNavbar()">
+		<div class="toggle-container">
+			<label class="toggle" for="show-nav">
+				<div class="toggle-line" id="toggle-line1"></div>
+				<div class="toggle-line" id="toggle-line2"></div>
+			</label>
+		</div>
+	</header>
+	<img src="img/fluid-decoration/fluid-01.svg" class="fluid-01">
+	<img src="img/fluid-decoration/fluid-02.svg" class="fluid-02">
+	<img src="img/fluid-decoration/fluid-03.svg" class="fluid-03">
+	<nav class="navbar-container" id="navbar">
+		<div class="navbar-blur" id="nav-bg"></div>
+		<ul>
+			<li id="home-nav"><a href="#home">Home</a></li>
+			<li id="services-nav"><a href="#services">Services</a></li>
+			<li id="portfolio-nav"><a href="#portfolio">Projects</a></li>
+			<li id="contact-nav"><a href="#contact">Contact</a></li>
+		</ul>
+	</nav>
+	<div class="intro-animation">
+		<div class="h-line-1 a-lines"></div>
+		<div class="h-line-2 a-lines"></div>
+	</div>
+	<div class="welcome section" id="home">
+		<div class="w-text">
+			<h2>Crearemos la página web ideal para ti</h2>
+			<div class="go-down">
+				<a href="#about">Conócenos</a>
+			</div>
+		</div>
+		<div class="w-img">
+			<img src="img/welcome.png" class="blapoo">
+			<a href="">Cotiza tu página >></a>
+		</div>
+		<img src="svg/wave.svg" class="waves wave-01">
+		<img src="svg/wave.svg" class="waves wave-02">
+	</div>
+	<div class="about section" id="about">
+		<div class="about-wrap">
+			<div class="about-roll" id="about-roll">
+				<div class="ab-nav" data-aos="fade-up" data-aos-duration="1000">
+					<a class="ab-logo" href="#home">
+						<img src="svg/blapoo_bnw_b.svg">
+					</a>
+					<ul>
+						<a href=""><li>Services</li></a>
+						<a href=""><li>Projects</li></a>
+						<a href=""><li>About Us</li></a>
+						<a href=""><li>FAQ</li></a>
+						<a href=""><li>Contact Us</li></a>	
+					</ul>
+				</div>
+				<div class="responsive-container a-sec">
+					<div class="responsive-title" data-aos="fade-right" data-aos-duration="2000">
+						<p class="ab-sec-counter ab-sec-counter-res"><b>02</b>/03</p>
+						<p>Diseño<br><b>responsivo</b></p>
+						<p>Tu página web se podrá ver en cualquier dispositivo</p>
+					</div>
+					<content class="responsive-img" data-aos="fade-left" data-aos-duration="2000">
+						<div class="responsive-device">
+							<div class="res-dev-screen">
+								<div></div>
+								<div></div>
+								<div></div>
+							</div>
+						</div>
+						<div class="res-circle"></div>
+					</content>
+					<div class="blur-bg"></div>
+				</div>
+				<div class="ux-container">
+					<div class="ux-title">
+						<p class="ab-sec-counter ab-sec-counter-ux"><b>03</b>/03</p>
+						<p>Diseño de <b>UI/UX</b> y <b>animaciones</b></p>
+						<p>Le daremos vida a tu página con un diseño ideal</p>
+					</div>
+					<div class="ux-image">
+						<div class="tab-container">
+							<div class="tab-decoration">
+								<div></div><div></div>
+							</div>
+							<div class="tab-screen">
+								<div class="tab-bla">
+									<img src="svg/blapoo.svg">
+								</div>
+								<div class="tab-triangles">
+									<div></div><div></div><div></div><div></div>
+								</div>
+							</div>
+						</div>
+						<div class="highlight"></div>
+					</div>
+				</div>
+			</div>
+			<div class="ab-counter">
+				<label class="sec1" id="sec1"></label>
+				<label class="sec2" id="sec2"></label>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/main.js"></script>
+	<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  	<script>
+    	AOS.init();
+  	</script>
+</body>
+</html>
