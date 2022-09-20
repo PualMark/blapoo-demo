@@ -445,7 +445,7 @@
 	.ab-counter{
 		z-index: 700;
 		position: absolute;
-		bottom: 15vh;
+		bottom: 0;
 		left: 0;
 		display: flex;
 		flex-direction: row;
@@ -501,7 +501,7 @@
 			text-align: left;
 		}
 		.ab-sec-counter-ux{
-			text-align: right;
+			text-align: left;
 		}
 		.responsive-title p:nth-child(2){
 			font-size: var(--big-f);
@@ -642,6 +642,7 @@
 		}
 		.ux-title{
 			z-index: 610;
+			margin-left: 0;
 			margin-left: 10%;
 		}
 		.ux-title p:nth-child(2){
@@ -938,10 +939,14 @@
 	.ab-counter{
 		bottom: 5vh;
 	}
+	.ab-sec-counter-ux{
+		text-align: right;
+	}
 	.responsive-container{
 		display: flex;
 		flex-direction: row;
 		align-items: center;
+		justify-content: center;
 	}
 	.responsive-title{
 		padding-left: 3em;
@@ -1013,6 +1018,7 @@
 		}
 	.ux-container{
 		flex-direction: row-reverse;
+		justify-content: center;
 	}
 	.ux-title p:nth-child(2){
 		font-size: 8rem;
